@@ -1,0 +1,2 @@
+#!/bin/bah
+echo ABc | tr Ac Ze
